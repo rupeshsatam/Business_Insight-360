@@ -86,79 +86,79 @@ Fact table : It will have the data about the transactions
 - dim_customer
   - 27 distinct markets (ex India, USA, spain)
   - 75 distinct customers thorough out the market
-  -2 types of platforms
-    -Brick & Motors - Physical/offline store
-    -E-commerce - Online Store (Amazon, flipkart)
-Three channels
-Retailer
-Direct
-Distributors
-dim_market
-27 distinct markets (ex India, USA, spain)
-7 sub-zones
-4 regions
-APAC
-EU
-nan
-LATAM
-dim_product
-Divisions
-P & A
-Peripherals
-Accessories
-PC
-Notebook
-Desktop
-N & S
-Networking
-Storage
-There are 14 different categories, Like Internal HDD, keyboard
-There are different variants available for the same product
-fact_forecast_monthly
-This table is used to forecast the customer’s need in advance, which can help in
-Higher customer satisfaction
-Reduced cost in warehouses for storage purpose
-The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
-All the date of the month will be replaced by the start date of the month
-It will have all the column names and in the end it will have the forecast quantity need of the customer
-fact_sales_monthly
-This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
-gdb056
-freight_cost
-This table has details of travel cost and other cost for each market with fiscal year
-gross_price
-Has the details of gross prices with product code
-manufacturing_cost
-Has the details of manufacturing cost with product code with year
-Pre_invoice_dedutions
-Has the details of pre invoice deductions percentage for each cutomer with year
-Post_invoice_deductions
-Post invoice deductions and other deductions details
-Importing data into PowerBi
-As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
-Data Model
-Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
-Poor data modeling affects the over all performance of the report.
-Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
-In this project, we have followed Snowfall data modeling method.
+  - 2 types of platforms
+    - Brick & Motors - Physical/offline store
+    - E-commerce - Online Store (Amazon, flipkart)
+  - Three channels
+    - Retailer
+    - Direct
+    - Distributors
+- dim_market
+  - 27 distinct markets (ex India, USA, spain)
+  - 7 sub-zones
+  - 4 regions
+    - APAC
+    - EU
+    - nan
+    - LATAM
+- dim_product
+  - Divisions
+    - P & A
+      - Peripherals
+      - Accessories
+    - PC
+      - Notebook
+      - Desktop
+    - N & S
+      - Networking
+      - Storage
+  - There are 14 different categories, Like Internal HDD, keyboard
+  - There are different variants available for the same product
+- fact_forecast_monthly
+  - This table is used to forecast the customer’s need in advance, which can help in
+    - Higher customer satisfaction
+    - Reduced cost in warehouses for storage purpose
+  - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
+  - All the date of the month will be replaced by the start date of the month
+  - It will have all the column names and in the end it will have the forecast quantity need of the customer
+- fact_sales_monthly
+  - This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
+- gdb056
+ - freight_cost
+    - This table has details of travel cost and other cost for each market with fiscal year
+ - gross_price
+    - Has the details of gross prices with product code
+ - manufacturing_cost 
+    - Has the details of manufacturing cost with product code with year
+ - Pre_invoice_dedutions
+    - Has the details of pre invoice deductions percentage for each cutomer with year
+ - Post_invoice_deductions
+    - Post invoice deductions and other deductions details
+## Importing data into PowerBi
+- As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+## Data Model
+- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor data modeling affects the over all performance of the report.
+- Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
+- In this project, we have followed Snowfall data modeling method.
 
 
-Dashboard designing
+## Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
-Home view
+## Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-Info
-Finance View
-Sales View
-Marketing View
-Supply chain View
-Executive View
-Products
-Support
-Overall Report
-Overall Report.gif
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Products
+- Support
+- Overall Report
+- Overall Report.gif
 
 Info Page
 Info.gif
@@ -181,7 +181,7 @@ Executive.gif
 Products
 Products
 
-you can find the full report file here : Report
+You can find the full report file here : Report
 
-Project Outcome
+## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
