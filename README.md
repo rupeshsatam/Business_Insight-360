@@ -182,8 +182,7 @@ Supply chain.gif
 ## Executive View
 Executive.gif
 
-## Products
-Products
+
 
 You can find the full report file here : Report
 
