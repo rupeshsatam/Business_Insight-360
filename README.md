@@ -165,7 +165,8 @@ In Home view, all the views button will be available. User will land on specific
 <img width="409" alt="Data_Model_Business_Insights_360" src="https://github.com/rupeshsatam/Business_Insight-360/assets/54306734/4b6274e6-476d-4b7a-96c2-94ae4f2f941a">
 
 ## Home Page
-Info.gif
+
+<img width="936" alt="Home_Page" src="https://github.com/rupeshsatam/Business_Insight-360/assets/54306734/0da303ec-9097-447a-9747-c71906214fe7">
 
 ## Finance View
 Finace.gif
