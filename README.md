@@ -186,7 +186,8 @@ In Home view, all the views button will be available. User will land on specific
 <img width="935" alt="Supply_Chain_View" src="https://github.com/rupeshsatam/Business_Insight-360/assets/54306734/563c8a87-4525-404b-9970-b35f5717a726">
 
 ## Executive View
-Executive.gif
+
+<img width="936" alt="Executive_View" src="https://github.com/rupeshsatam/Business_Insight-360/assets/54306734/4cc4c1f7-b379-4bd4-9755-87920784f4a8">
 
 
 
