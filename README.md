@@ -174,7 +174,9 @@ In Home view, all the views button will be available. User will land on specific
 
 
 ## Sales View
-Sales.gif
+
+<img width="935" alt="Sales_View" src="https://github.com/rupeshsatam/Business_Insight-360/assets/54306734/d0765cd4-f68a-488e-bcc0-a26b54b48601">
+
 
 ## Marketing View
 Marketing.gif
