@@ -161,25 +161,28 @@ In Home view, all the views button will be available. User will land on specific
 - Overall Report
 - Overall Report.gif
 
-Info Page
+
+<img width="409" alt="Data_Model_Business_Insights_360" src="https://github.com/rupeshsatam/Business_Insight-360/assets/54306734/4b6274e6-476d-4b7a-96c2-94ae4f2f941a">
+
+## Home Page
 Info.gif
 
-Finance View
+## Finance View
 Finace.gif
 
-Sales View
+## Sales View
 Sales.gif
 
-Marketing View
+## Marketing View
 Marketing.gif
 
-Supply chain View
+## Supply chain View
 Supply chain.gif
 
-Executive View
+## Executive View
 Executive.gif
 
-Products
+## Products
 Products
 
 You can find the full report file here : Report
