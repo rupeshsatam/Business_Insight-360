@@ -1,7 +1,7 @@
 # Business Insights 360
 
-### Link to Business Insights 360 Presentaion : Linkedin Post
-### Link to Live Interactive DashBoard: Power BI DashBoard
+### Link to Business Insights 360 Presentaion : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7191697371783712770/)
+
 
 ## Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
